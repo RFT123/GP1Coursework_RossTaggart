@@ -394,7 +394,6 @@ int WINAPI WinMain( HINSTANCE hInstance, HINSTANCE hPrevInstance, LPTSTR lpCmdLi
 
 	LPDIRECT3DSURFACE9 aSurface;				// the Direct3D surfaces
 	LPDIRECT3DSURFACE9 mainMenuSurface;
-	LPDIRECT3DSURFACE9 howToPlaySurface;
 	LPDIRECT3DSURFACE9 mainGameSurface;
 	LPDIRECT3DSURFACE9 gameOverSurface;
 	LPDIRECT3DSURFACE9 theBackbuffer = NULL;  // This will hold the back buffer
