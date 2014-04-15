@@ -1,0 +1,16 @@
+#include "GameResources.h"
+
+// --------------------------------------
+// Icons
+// --------------------------------------
+IDI_MyWindowIcon	ICON	"Images\\mallet.ico"
+
+// --------------------------------------
+// Fonts
+// --------------------------------------
+IDF_MyFont			FONT	"Fonts\\MineCrafter 3.ttf"
+
+// --------------------------------------
+// Cursors
+// --------------------------------------
+IDC_GUNSIGHT		CURSOR	"Images\\Gun.cur"
